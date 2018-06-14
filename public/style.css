@@ -1,0 +1,60 @@
+#app {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+h1  {
+	color: rgb(245, 100, 0);
+	margin-top: 30px;
+	margin-left: 10px;
+  text-align: left;
+
+}
+.searhDiv {
+	position: relative;
+	margin: 0;
+}
+.search-input {
+	margin-top: 20px;
+	margin-left: 150px;
+	width: 258px;
+	height: 34px;
+}
+.buttonS {
+	width: 82.52px;
+	height: 34px;
+	align-self: left;
+	background-color: rgb(245, 100, 0);
+	color: white;
+	font-weight: bold;
+}
+ul {
+	display: flex;
+	justify-content: space-between;
+  list-style-type: none;
+  border:  1px solid lightgrey;
+  border-left: transparent;
+  border-right: transparent;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+
+}
+
+#purchase {
+  
+	position: absolute;
+  top: 0px;
+  right: 0px;
+	margin-right: 250px;
+	margin-top: 270px;
+
+ 
+}
+
+#reviews {
+
+  margin: 10%;
+  display: block;
+}
+
